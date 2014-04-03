@@ -3,12 +3,16 @@ TASKOVI
   1. Istražiti OCR-ove
     a) verzija za android ili web verzija
     b) čitanje rukopisa ili strojnog teksta (backup plan)
+    c) naći slične aplikacije koje koriste OCR
   
   2. Kreiranje android projekta
     a) pozivanje fotoaparata iz aplikacije
     b) spremanje slikičice
     c) OCR ili web ili android
     d) dodatna mogućnost editiranja prepoznatog teksta
+      d.1) custom implementacija pickera 
     e) otvaranje linka s tekstom(pozivanje browser-a)
       e.1) uklanjanje suvišnih elemenata sa stranice
+    f) testiranje
+    
     
