@@ -1,0 +1,14 @@
+TASKOVI
+
+  1. Istražiti OCR-ove
+    a) verzija za android ili web verzija
+    b) čitanje rukopisa ili strojnog teksta (backup plan)
+  
+  2. Kreiranje android projekta
+    a) pozivanje fotoaparata iz aplikacije
+    b) spremanje slikičice
+    c) OCR ili web ili android
+    d) dodatna mogućnost editiranja prepoznatog teksta
+    e) otvaranje linka s tekstom(pozivanje browser-a)
+      e.1) uklanjanje suvišnih elemenata sa stranice
+    
