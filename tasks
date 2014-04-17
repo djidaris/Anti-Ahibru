@@ -1,7 +1,7 @@
 TASKOVI
 
  - napraviti svaki svoj account koji će biti dodan u glavni projekt (colaborator)
- - Kratki uvod u github - push/pull i project collaborators // @jolet čet 10.4.2014 
+ - Kratki uvod u github - push/pull i project collaborators .........// @jolet
   
 0. Napraviti UML diagram
   1. Istražiti OCR-ove
@@ -15,8 +15,9 @@ TASKOVI
     c) OCR ili web ili android
     d) dodatna mogućnost editiranja prepoznatog teksta
       d.1) custom implementacija pickera 
-    e) otvaranje linka s tekstom(pozivanje browser-a)
-      e.1) uklanjanje suvišnih elemenata sa stranice
+    e) otvaranje linka s tekstom(pozivanje browser-a) ...............// @jolet
+      e.1) uklanjanje suvišnih elemenata sa stranice 
+      (treba nam samo result div)
     f) testiranje
     
     
